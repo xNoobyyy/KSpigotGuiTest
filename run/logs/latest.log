@@ -1,0 +1,46 @@
+[18:25:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:25:25] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[18:25:25] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[18:25:26] [ServerMain/INFO]: No existing world data, creating new world
+[18:25:27] [ServerMain/INFO]: Loaded 1175 recipes
+[18:25:27] [ServerMain/INFO]: Loaded 1276 advancements
+[18:25:27] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[18:25:27] [Server thread/INFO]: Loading properties
+[18:25:27] [Server thread/INFO]: This server is running Paper version 1.20.6-148-ver/1.20.6@20f5165 (2024-07-02T15:37:33Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[18:25:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:25:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:25:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 6 worker threads, and gen parallelism of 6 threads
+[18:25:29] [Server thread/INFO]: Default game type: SURVIVAL
+[18:25:29] [Server thread/INFO]: Generating keypair
+[18:25:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:25:29] [Server thread/INFO]: Using default channel type
+[18:25:29] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[18:25:29] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loading 1 libraries... please wait
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library plugins\.paper-remapped\libraries\kspigot-1.20.4-1721233366740.jar
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library D:\Coding\Other\KSpigotGuiTest\run\libraries\org\jetbrains\kotlinx\kotlinx-serialization-json-jvm\1.6.3\kotlinx-serialization-json-jvm-1.6.3.jar
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library D:\Coding\Other\KSpigotGuiTest\run\libraries\org\jetbrains\kotlin\kotlin-stdlib-common\1.9.22\kotlin-stdlib-common-1.9.22.jar
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library D:\Coding\Other\KSpigotGuiTest\run\libraries\org\jetbrains\kotlinx\kotlinx-serialization-core-jvm\1.6.3\kotlinx-serialization-core-jvm-1.6.3.jar
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library D:\Coding\Other\KSpigotGuiTest\run\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-core-jvm\1.8.1\kotlinx-coroutines-core-jvm-1.8.1.jar
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library D:\Coding\Other\KSpigotGuiTest\run\libraries\org\jetbrains\annotations\23.0.0\annotations-23.0.0.jar
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library D:\Coding\Other\KSpigotGuiTest\run\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-jdk8\1.8.1\kotlinx-coroutines-jdk8-1.8.1.jar
+[18:25:29] [Server thread/INFO]: [SpigotLibraryLoader] [KSpigotGuiTest] Loaded library D:\Coding\Other\KSpigotGuiTest\run\libraries\org\jetbrains\kotlin\kotlin-stdlib\1.9.24\kotlin-stdlib-1.9.24.jar
+[18:25:29] [Server thread/INFO]: [KSpigotGuiTest] Loading server plugin KSpigotGuiTest v1.0
+[18:25:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:25:29] [Server thread/INFO]: Preparing level "world"
+[18:25:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:25:36] [Server thread/INFO]: Time elapsed: 2152 ms
+[18:25:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:25:36] [Server thread/INFO]: Time elapsed: 596 ms
+[18:25:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:25:36] [Server thread/INFO]: Time elapsed: 110 ms
+[18:25:36] [Server thread/INFO]: [KSpigotGuiTest] Enabling KSpigotGuiTest v1.0
+[18:25:37] [Server thread/INFO]: Running delayed init tasks
+[18:25:37] [Server thread/INFO]: Done (9.288s)! For help, type "help"
+[18:25:37] [Server thread/INFO]: Timings Reset
+[18:25:42] [User Authenticator #0/INFO]: UUID of player lil_cracko is b9129a24-bda8-41d0-8697-547db1184494
+[18:25:42] [Server thread/INFO]: lil_cracko joined the game
+[18:25:42] [Server thread/INFO]: lil_cracko[/127.0.0.1:63120] logged in with entity id 49 at ([world]-36.5, 76.0, 71.5)
+[18:25:46] [Server thread/INFO]: lil_cracko issued server command: /guiA
+[18:25:51] [Server thread/INFO]: lil_cracko issued server command: /guiB
+[18:25:54] [Server thread/INFO]: lil_cracko issued server command: /guiA
